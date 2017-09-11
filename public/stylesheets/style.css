@@ -10,5 +10,7 @@ a {
 @media (max-width:1500px) {
    img {
      width:100% !important;
+     top: 20% !important;
+     margin-top: 0 !important;
    }
 }
